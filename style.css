@@ -1,63 +1,28 @@
 body {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    background-color: bisque;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-/**
-
-h2 {
-    color: green;
+    background-color: rgb(255, 228, 196);
 }
 
 h1 {
-    font-family: 'Courier New', Courier, monospace;
-    color: bisque;
-}
-
-body {
-    background-color: rgb(75, 67, 67);
-    color: white;
-}
-
-a {
-    color: aquamarine;
-}
-
-#rs {
-    color: red;
-}
-
-#ecoles {
-    color: beige;
-}
-
-.elements {
-    color: aquamarine;
-    background-color: blueviolet;
-}
-
-#paragraphe1 {
-    color: blueviolet;
-    background-color: bisque;
-    font-size: large;
+    display: flex;
+    justify-content: center;
 }
 
 #about_me {
     display: flex;
-    flex-direction: row
+    flex-direction: row;
+    gap: 7rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
 }
 
-**/
+.about_me_content {
+    display: flex;
+    background-color: rgb(196, 175, 149);
+    flex: 1; 
+    text-align: center;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius:1rem;
+}
