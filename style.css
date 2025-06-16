@@ -27,3 +27,13 @@ h3 {
 #ecoles {
     color: beige;
 }
+
+.elements {
+    color: aquamarine;
+}
+
+#paragraphe1 {
+    color: blueviolet;
+    background-color: bisque;
+    font-size: large;
+}
