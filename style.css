@@ -11,3 +11,19 @@ body {
     background-color: rgb(75, 67, 67);
     color: white;
 }
+
+a {
+    color: aquamarine;
+}
+
+h3 {
+    color: brown;
+}
+
+#rs {
+    color: red;
+}
+
+#ecoles {
+    color: beige;
+}
