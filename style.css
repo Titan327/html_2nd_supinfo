@@ -7,12 +7,13 @@ h1 {
     justify-content: center;
 }
 
-#about_me {
+.about_me {
     display: flex;
     flex-direction: row;
     gap: 7rem;
     margin-right: 10rem;
     margin-left: 10rem;
+    margin-top: 2rem;
 }
 
 .about_me_content {
@@ -25,5 +26,4 @@ h1 {
     justify-content: center;
     flex-direction: column;
     border-radius:1rem;
-    
 }
